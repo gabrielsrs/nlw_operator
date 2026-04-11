@@ -4,3 +4,6 @@
 [submodule "computer-vision"]
 	path = computer-vision
 	url = https://github.com/gabrielsrs/computer-vision.git
+[submodule "clipmaker"]
+	path = clipmaker
+	url = https://github.com/gabrielsrs/clipmaker.git
